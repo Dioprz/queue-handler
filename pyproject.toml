@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "queue_handler"
+version = "0.1.0"
+description = "A Python package to handle bankary dequeues based on priority."
+authors = [{name = "Dioprz", email = "diego.dioprz@gmail.com"}]
+# Replace with your project's repository URL if applicable
+# project-urls = {Homepage = "https://github.com/yourusername/time2bench"} 
+dependencies = [
+]
