@@ -34,7 +34,8 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
    ```bash
    git clone https://github.com/Dioprz/queue-handler
    python3 -m venv .venv
-   source .venv/bin/activate.fish
+   source .venv/bin/activate
+   # source .venv/bin/activate.fish if you use fish-shell
    cd queue-handler
    pip install .
    python3 src/queue_handler/main.py
