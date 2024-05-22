@@ -33,10 +33,10 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
 
    ```bash
    git clone https://github.com/Dioprz/queue-handler
+   cd queue-handler
    python3 -m venv .venv
    source .venv/bin/activate
    # source .venv/bin/activate.fish if you use fish-shell
-   cd queue-handler
    pip install .
    python3 src/queue_handler/main.py
    ```
@@ -52,7 +52,7 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
 
 1. Ejecuta el programa.
 1. Selecciona "1" para agregar un turno.
-1. Selecciona la prioridad.
+   1. Selecciona la prioridad del turno.
 1. Agrega otro turno, esta vez de tipo "buena gente".
 1. Selecciona "2" para atender un cliente.
 
