@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: bank-queue-handler
-Version: 0.1.0
-Summary: A Python package to handle bankary dequeues based on priority.
-Author-email: Dioprz <diego.dioprz@gmail.com>

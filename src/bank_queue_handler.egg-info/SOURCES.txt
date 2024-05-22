@@ -1,9 +1,0 @@
-pyproject.toml
-src/bank-queue-handler/main.py
-src/bank-queue-handler/handler/handler.py
-src/bank-queue-handler/printer/__init__.py
-src/bank-queue-handler/printer/printer.py
-src/bank_queue_handler.egg-info/PKG-INFO
-src/bank_queue_handler.egg-info/SOURCES.txt
-src/bank_queue_handler.egg-info/dependency_links.txt
-src/bank_queue_handler.egg-info/top_level.txt
