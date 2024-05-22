@@ -15,8 +15,8 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
   atender al siguiente cliente.
 - **Visualización del estado de las colas:** Muestra el número de turnos
   pendientes en cada cola.
-- El sistema inicia con ejemplos predefinidos en las colas para facilitar las
-  pruebas.
+- **Baterías incluidas:** El sistema inicia con turnos predefinidos en las colas
+  para facilitar las pruebas.
 
 ## Estructura del Proyecto
 
@@ -36,7 +36,7 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
    cd queue-handler
    python3 -m venv .venv
    source .venv/bin/activate
-   # source .venv/bin/activate.fish if you use fish-shell
+   # source .venv/bin/activate.fish #if you use fish-shell
    pip install .
    python3 src/queue_handler/main.py
    ```
