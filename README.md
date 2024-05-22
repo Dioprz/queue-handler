@@ -51,11 +51,10 @@ gente, normal) y manteniendo una relación 2:3 entre los clientes normales y
 ## Ejemplo de Uso
 
 1. Ejecuta el programa.
-1. Selecciona "1" para agregar un turno prioritario.
+1. Selecciona "1" para agregar un turno.
+1. Selecciona la prioridad.
 1. Agrega otro turno, esta vez de tipo "buena gente".
-1. Agrega un turno de tipo "normal".
-1. Selecciona "2" para atender al siguiente cliente. El sistema atenderá primero
-   al cliente prioritario, luego a uno normal y así sucesivamente.
+1. Selecciona "2" para atender un cliente.
 
 ## Consideraciones técnicas
 
